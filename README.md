@@ -1,4 +1,4 @@
-# esde08
+# ESDE project
 
 This is the exercise work project of Embedded Software Development Environments course. Application presents a simple home automation system. 
 This project is done fully by me. I decided to work alone to get the best learning experience from this course.
@@ -19,7 +19,3 @@ I used test file (MessageTest.java) provided by the course wiki to test the mess
 * The address and port of the central unit can be changed from the settings. 
 * By shaking the device, background color of the application changes. 
 * Actuators and sensors are presented in a list, only the state of actuators can be changed.
-
-Name: Jonna Al-Khanji
-Student number: 2253525
-Email: juola.jonna@gmail.com
