@@ -1,11 +1,10 @@
 # ESDE project
 
 This is the exercise work project of Embedded Software Development Environments course. Application presents a simple home automation system. 
-This project is done fully by me. I decided to work alone to get the best learning experience from this course.
 
 Instructions
 
-Open and build project using Android Studio. I had huge problems with the original emulator of the Android Studio which is why I have used Genymotion's emulator to test ja use my application. My application has been tested with following emulators:
+Open and build project using Android Studio. I used Genymotion's emulator to test my application. My application has been tested with following emulators:
 
 Google Nexus 5 - Android version 5.0.0 - API 21
 Google Galaxy Nexus - Android version 4.1.1 - API 16
