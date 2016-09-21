@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OHAP Client 08</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="textView_path">devicePath</string>
+    <string name="textView_name">deviceName</string>
+    <string name="textView_description">deviceDescription</string>
+    <string name="textView_decimal">valueDecimal</string>
+    <string name="title_activity_device_list">deviceListActivity</string>
+
+</resources>

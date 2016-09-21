@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Server settings">
+
+        <EditTextPreference
+            android:defaultValue="http://ohap.opimobi.com:18000/"
+            android:key="editText_preference"
+            android:title="Set the URL of the server" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
